@@ -19,8 +19,8 @@
 }
 
 #modal .content {
-    color: white;
-
+    color: #f0f0f5;
+    font-family: Grand Hotel, cursive;
     width: 420px;
 }
 
@@ -29,6 +29,7 @@
     align-items: center;
     justify-content: space-between;
     margin-bottom: 48px;
+    
 }
 #modal .header a {
     background-image: url("../assets/x.svg");
@@ -41,13 +42,14 @@
     font-size: 0.01px;
 }
 #modal .header h1 {
-    color: white;
+    color: var(--primary-color);
     font-size: 36px;
     line-height: 42px;
+    font-family: Grand Hotel, cursive;
 }
 
 #modal form label {
-    font-size: 14px;
+    font-size: 20px;
     line-height: 16px;
 
     display: block;
