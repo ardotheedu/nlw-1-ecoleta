@@ -10,13 +10,16 @@ Imagens do Site:
 
 Pagina home:
 
+![Adicionar Ponto](/ScreenShots/home.png)
 
 Pagina para procurar ponto:
 
 ![Adicionar Ponto](/ScreenShots/add-point.png)
 
 Postos:
+
 ![Pontos](/ScreenShots/Fpost.png)
 
 Pagina para adicionar ponto:
+
 ![Criação de pontos](/ScreenShots/create-point.png)
