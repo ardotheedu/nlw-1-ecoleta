@@ -22,4 +22,4 @@ Postos:
 
 Pagina para adicionar ponto:
 
-![Criação de pontos](/ScreenShots/create-point.png)
+![Criação de pontos](/ScreenShots/point.png)
