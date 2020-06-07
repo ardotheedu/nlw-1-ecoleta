@@ -7,20 +7,6 @@
         padding: 27px;
     }
 }
-/* @media (max-width: 420px) {
-    #page-create-point .form {
-        padding: 27px;
-    }
-    #page-create-point header a span {
-        margin-left: 12px;
-        margin-right: 17px;
-    }
-    #page-create-point point form button {
-        align-items: center;
-        width: 280px;
-        color: tomato;
-    }
-} */
 
 @media (max-width: 900px){
     #page-home{
