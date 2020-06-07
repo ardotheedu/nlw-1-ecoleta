@@ -7,7 +7,6 @@ Projeto web responsivo usando: HTML, CSS, JavaScript, NodeJS, Nodemon, Nunjucks 
 
 Imagens do Site:
 
-![Pagina Principal](/ScreenShots/home (2).png)
 
 Pagina home:
 
