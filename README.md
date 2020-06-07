@@ -10,7 +10,6 @@ Imagens do Site:
 
 Pagina home:
 
-![Pagina Principal](/ScreenShots/home (2).png)
 
 Pagina para procurar ponto:
 
