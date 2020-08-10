@@ -1,6 +1,7 @@
 # NLW-1-Ecoleta
 
 Projeto desenvolvido durante a 1ª Next Level Week, com o professor da RockeatSeat, Mayk Brito.
+
 O projeto tem como objetivo ajudar no auxilio de descarte corretor do lixo, onde as pessoas podem procurar postos para descarte de lixo e os postos podem se cadastrar preenchendo que tipo de lixo eles trabalham.
 
 Tecnologias usadas:
