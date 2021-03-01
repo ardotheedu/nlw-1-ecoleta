@@ -57,7 +57,7 @@ A few of the things you can do with Ecoleta:
 To clone and run this application, you'll need Git and Node.js (which comes with npm) installed on your computer. From your command line:
 ```bash
 # Clone this repository
-$ git clone github.com/ardotheedu/nlw-4-moveit
+$ git clone github.com/ardotheedu/nlw-1-ecoleta
 
 # Go into the repository
 $ cd nlw-1-ecoleta
