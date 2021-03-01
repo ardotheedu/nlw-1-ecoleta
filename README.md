@@ -1,41 +1,71 @@
-# NLW-1-Ecoleta
+<h1 align="center">
+  Ecoleta
+</h1>
 
-Projeto desenvolvido durante a 1ª Next Level Week, com o professor da RockeatSeat, Mayk Brito.
-
-O projeto tem como objetivo ajudar no auxilio de descarte corretor do lixo, onde as pessoas podem procurar postos para descarte de lixo e os postos podem se cadastrar preenchendo que tipo de lixo eles trabalham.
-
-Tecnologias usadas:
----------------------------
-  - HTML
-  - CSS
-  - JavaScript
-  - [NodeJS][1]
-  - [Nodemon][2]
-  - [Nunjucks][3]
-  - [Express][4]
-  
-
-Imagens:
---------
-
-**Pagina home:**
-
-![Adicionar Ponto](/ScreenShots/home.png)
-
-**Pagina para procurar ponto:**
-
-![Adicionar Ponto](/ScreenShots/add-point.png)
-
-**Postos:**
-
-![Pontos](/ScreenShots/Fpost.png)
-
-**Pagina para adicionar ponto:**
-
-![Criação de pontos](/ScreenShots/point.png)
+<p align="center">
+  Save the world, use Ecoleta.
+</p>
 
 
- [1]: https://nodejs.org/ "NodeJS"
- [2]: https://nodemon.io/
- [3]: https://mozilla.github.io/nunjucks/
- [4]: http://expressjs.com/pt-br/
+## Table of Contents
+* [Introduction](#introduction)
+* [Tecnologies](#tecnologies)
+* [Features](#features)
+* [How To Use](#how-to-use)
+
+
+## Introduction
+
+The app goal is to help with the correct disposal of waste, with Ecoleta you can look for recycling point and recycling point can register by filling the form with what kind of waste they work it.
+
+## Tecnologies
+
+* NodeJS
+* Nunjucks
+* Nodemon
+* Express
+* SQLite
+
+## Features
+
+A few of the things you can do with Ecoleta:
+
+* Add point 
+* Look for points by city
+* Preview points
+
+<p align="center">
+  <img src = "/ScreenShots/home.png" width=700>
+</p>
+
+<p align="center">
+  <img src = "/ScreenShots/add-point.png" width=700>
+</p>
+
+<p align="center">
+  <img src = "/ScreenShots/point.png" width=700>
+</p>
+
+<p align="center">
+  <img src = "/ScreenShots/Fpost.png" width=700>
+</p>
+
+
+
+## How To Use
+
+To clone and run this application, you'll need Git and Node.js (which comes with npm) installed on your computer. From your command line:
+```bash
+# Clone this repository
+$ git clone github.com/ardotheedu/nlw-4-moveit
+
+# Go into the repository
+$ cd nlw-1-ecoleta
+
+# Install dependencies
+$ yarn
+
+# Run the app
+$ yarn start
+```
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
